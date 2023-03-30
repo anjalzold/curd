@@ -1,0 +1,37 @@
+form {
+  width: 450px;
+  border: 2px solid black;
+  padding: 30px;
+  margin: auto;
+  border-radius: 10px;
+  background: #16c9ff;
+  text-align: left;
+}
+
+body {
+  color: black;
+}
+
+button {
+  display: inline;
+  border: none;
+  background: #16c9ff;
+  color: black;
+  padding: 10px 15px;
+  margin-left: 15px;
+  border-radius: 15px;
+  align-items: center;
+}
+a {
+  text-decoration: none;
+}
+
+.data {
+  width: 500px;
+  margin: 0 auto;
+  padding: 50px;
+  align-items: center;
+  text-align: center;
+  background: #ca127a;
+  border-radius: 15px;
+}
